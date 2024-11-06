@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bricklayerz
 - 👀 I’m interested in information security
-- 🌱 I’m currently learning dfa and nfa
+- 🌱 I’m currently learning vulnerability mining
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me corn_blz_123@126.com
 
